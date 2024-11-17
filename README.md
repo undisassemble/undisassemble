@@ -1,7 +1,7 @@
 # Hello friendo :wave:
 
 ## Current Projects
-- Yet Another Packer (90% of my commits go here) ![27/65](https://geps.dev/progress/41)
+- Yet Another Packer (90% of my commits go here) ![31/66](https://geps.dev/progress/46)
 - PEFixup ![idk just guessing](https://geps.dev/progress/75)
 
 ## Past Projects
