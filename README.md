@@ -2,7 +2,7 @@
 
 ## Current Projects
 - Yet Another Packer (90% of my commits go here) ![31/66](https://geps.dev/progress/46)
-- PEFixup ![idk just guessing](https://geps.dev/progress/75)
+- [PEFixup](https://github.com/undisassemble/pefixup) ![idk just guessing](https://geps.dev/progress/75)
 
 ## Past Projects
 I may make small changes to these but it is unlikely that they will be continued further
