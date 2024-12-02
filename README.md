@@ -1,7 +1,7 @@
 # Hello friendo :wave:
 
 ## Current Projects
-- Yet Another Packer (90% of my commits go here) ![31/66](https://geps.dev/progress/46)
+- Yet Another Packer (taking a break from this project for a bit) ![31/66](https://geps.dev/progress/46)
 - [PEFixup](https://github.com/undisassemble/pefixup)
 
 ## Past Projects
