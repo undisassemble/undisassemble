@@ -1,7 +1,7 @@
 # Hello friendo :wave:
 
 ## Current Projects
-- Yet Another Packer (taking a break from this project for a bit)
+- Yet Another Packer
 - [PEFixup](https://github.com/undisassemble/pefixup)
 
 ## Past Projects
