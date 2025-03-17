@@ -1,5 +1,7 @@
 # Hello friendo :wave:
 
+I'm currently a high school senior, majoring in CSEC next year. My focus is reverse engineering, specifically with Windows applications and PEs. I mainly program in C++, but I also know C, Python, and x86 Intel Assembly.
+
 ## Current Projects
 - Yet Another Packer (most of my commits go here)
 - [PEFixup](https://github.com/undisassemble/pefixup)
