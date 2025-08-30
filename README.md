@@ -3,7 +3,8 @@
 I'm currently in college, majoring in CSEC. My focus is reverse engineering, specifically with Windows applications and PEs. I mainly program in C++, but I also know C, Python, and x86 Intel Assembly.
 
 ## Current Projects
-- Yet Another Packer (most of my commits go here)
+- [Yet Another Packer](https://github.com/undisassemble/yap) (most of my commits go here)
+- [ReLib](https://github.com/undisassemble/relib)
 
 ## Past Projects
 I may make small changes to these but it is unlikely that they will be continued further
